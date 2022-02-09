@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="453.963" height="607.694" viewBox="0 0 453.963 607.694">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-5, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        font-size: 92px;
+        font-family: Poppins-Medium, Poppins;
+        font-weight: 500;
+      }
+
+      .cls-6 {
+        font-size: 44px;
+        font-family: Poppins-Light, Poppins;
+        font-weight: 300;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-0.396" y1="0.595" x2="0.802" y2="0.47" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0f005d"/>
+      <stop offset="1" stop-color="#b87e6f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.885" y1="-0.085" x2="0.241" y2="0.881" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="0.854" y1="1.282" x2="0.049" y2="-1.084" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="0.946" y1="-0.178" x2="0.032" y2="0.534" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="logo" transform="translate(-313 -251.306)">
+    <g id="Group_20" data-name="Group 20" transform="translate(112 141.306)">
+      <g id="Group_6" data-name="Group 6" transform="translate(201 110)">
+        <rect id="Rectangle_20" data-name="Rectangle 20" class="cls-1" width="76.267" height="74.44" rx="37.22" transform="translate(400.034 128.64) rotate(45)"/>
+        <rect id="Rectangle_35" data-name="Rectangle 35" class="cls-2" width="195.839" height="74.439" rx="37.22" transform="matrix(-0.809, -0.588, 0.588, -0.809, 318.31, 175.334)"/>
+        <rect id="Rectangle_36" data-name="Rectangle 36" class="cls-3" width="345.273" height="74.439" rx="37.22" transform="matrix(-0.809, -0.588, 0.588, -0.809, 338.109, 337.785)"/>
+        <rect id="Rectangle_37" data-name="Rectangle 37" class="cls-4" width="212.999" height="74.439" rx="37.22" transform="matrix(0.656, -0.755, 0.755, 0.656, 0, 403.803)"/>
+      </g>
+    </g>
+    <g id="Group_19" data-name="Group 19" transform="translate(68 -57)">
+      <text id="Yami" class="cls-5" transform="translate(279 884)"><tspan x="0" y="0">Yami</tspan></text>
+      <text id="_.studio" data-name=".studio" class="cls-6" transform="translate(524 883)"><tspan x="0" y="0">.studio</tspan></text>
+    </g>
+  </g>
+</svg>

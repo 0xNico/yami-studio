@@ -1,0 +1,39 @@
+body {
+  display: flex;
+  position: relative;
+  background: rgb(8, 8, 8);
+  width: 100vw;
+  height: 100vh;
+  justify-items: center;  
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+  color: white;
+  font-family: 'Poppins', sans-serif;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+img {
+    width: auto;
+    height: 50vh;
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container {
+justify-content: center;
+margin: auto;
+margin-left: auto;
+margin-right: auto;
+width: auto;
+height: auto;
+text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(104, 64, 214);
+}
